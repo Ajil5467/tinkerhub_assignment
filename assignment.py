@@ -1,5 +1,4 @@
-import sentry_sdk
-sentry_sdk.init("https://7e94deff0e5f4f2f8839d033bcc2f460@sentry.io/4988102")
+
 
 class Student:
     'common base class for all registered learners and mentors'
